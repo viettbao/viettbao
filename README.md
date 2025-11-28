@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Dao Viet Bao. 
-Im a Software Developer in Ha Noi, Viet Nam.
+Im live and work in Ha Noi, Viet Nam.
 I am a person with a strong passion for technology, not afraid to learn to upgrade skills and improve myself.
 
 - 🤔 Call me: Bao
